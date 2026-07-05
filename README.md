@@ -74,9 +74,12 @@ data-warehouse-project/
 ```
 ---
 
-## 🛡️ License
+## 🛡️ License & Acknowledgments
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the [MIT License](LICENSE). 
+
+**Credits:** This project was built as a hands-on learning implementation based on the data engineering tutorial by [Data with Baraa
+](https://www.youtube.com/watch?v=9GVqKuTVANE). While the architecture design and core data requirements follow the tutorial, all SQL scripting, pipeline implementation, database setup, and local troubleshooting were executed entirely by me.
 
 ## 🌟 About Me
 
